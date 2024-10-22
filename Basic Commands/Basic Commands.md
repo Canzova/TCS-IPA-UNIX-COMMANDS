@@ -1,7 +1,7 @@
 
 ---
 
-### **1. mkdir 
+### 1. mkdir 
    - **What it does**: Creates a new directory (folder).
    - **When to use**: Use when you want to create a new folder.
    - **How to use**:  
@@ -11,7 +11,7 @@
 
 ---
 
-### **2. touch 
+### 2. touch 
    - **What it does**: Creates an empty file.
    - **When to use**: Use when you need to create new files.
    - **How to use**:  
@@ -21,7 +21,7 @@
 
 ---
 
-### **3. cat> 
+### 3. cat> 
    - **What it does**: Opens a file for input, allowing you to type content into it.
    - **When to use**: Use when you want to create or overwrite a file by typing content into it.
    - **How to use**:  
@@ -31,7 +31,7 @@
 
 ---
 
-### **4. cat file_name 
+### 4. cat file_name 
    - **What it does**: Displays the contents of a file.
    - **When to use**: Use when you want to view what’s inside a file.
    - **How to use**:  
@@ -41,7 +41,7 @@
 
 ---
 
-### **5. pwd 
+### 5. pwd 
    - **What it does**: Prints the current working directory (the folder you’re in).
    - **When to use**: Use when you want to know your current directory.
    - **How to use**:  
@@ -51,7 +51,7 @@
 
 ---
 
-### **6. passwd 
+### 6. passwd 
    - **What it does**: Changes your user password.
    - **When to use**: Use when you need to update or change your login password.
    - **How to use**:  
@@ -61,7 +61,7 @@
 
 ---
 
-### **7. mv 
+### 7. mv 
    - **What it does**: Moves a file to another location, or renames it.
    - **When to use**: Use to move files or rename them.
    - **How to use**:  
@@ -71,7 +71,7 @@
 
 ---
 
-### **8. cp 
+### 8. cp 
    - **What it does**: Copies a file to another location.
    - **When to use**: Use to duplicate files.
    - **How to use**:  
@@ -81,7 +81,7 @@
 
 ---
 
-### **9. nano 
+### 9. nano 
    - **What it does**: Opens the `nano` text editor.
    - **When to use**: Use when you want to edit files in a simple text editor.
    - **How to use**:  
@@ -91,7 +91,7 @@
 
 ---
 
-### **10. diff 
+### 10. diff 
    - **What it does**: Compares two files and displays the differences.
    - **When to use**: Use when you want to compare two files.
    - **How to use**:  
@@ -101,7 +101,7 @@
 
 ---
 
-### **11. tac 
+### 11. tac 
    - **What it does**: Displays file contents in reverse order (last line first).
    - **When to use**: Use to read a file backward.
    - **How to use**:  
@@ -111,7 +111,7 @@
 
 ---
 
-### **12. uniq 
+### 12. uniq 
    - **What it does**: Removes duplicate lines from a file or input.
    - **When to use**: Use to remove duplicates and keep unique lines.
    - **How to use**:  
@@ -121,7 +121,7 @@
 
 ---
 
-### **13. chmod 
+### 13. chmod 
    - **What it does**: Changes file permissions.
    - **When to use**: Use to control who can read, write, or execute a file.
    - **How to use**:  
@@ -131,7 +131,7 @@
 
 ---
 
-### **14. wc 
+### 14. wc 
    - **What it does**: Counts words, lines, and characters in a file.
    - **When to use**: Use to know the size or content count of a file.
    - **How to use**:  
@@ -141,7 +141,7 @@
 
 ---
 
-### **15. rmdir 
+### 15. rmdir 
    - **What it does**: Removes (deletes) a directory if it is empty.
    - **When to use**: Use to delete empty folders.
    - **How to use**:  
@@ -151,7 +151,7 @@
 
 ---
 
-### **16. rm 
+### 16. rm 
    - **What it does**: Removes (deletes) files or directories.
    - **When to use**: Use to delete files or folders.
    - **How to use**:  
@@ -161,7 +161,7 @@
 
 ---
 
-### **17. nl 
+### 17. nl 
    - **What it does**: Displays the contents of a file along with line numbers.
    - **When to use**: Use when you need to see line numbers in a file.
    - **How to use**:  
@@ -171,7 +171,7 @@
 
 ---
 
-### **18. history 
+### 18. history 
    - **What it does**: Displays a list of previously entered commands.
    - **When to use**: Use to check your command history.
    - **How to use**:  
